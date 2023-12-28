@@ -2,7 +2,7 @@
 
 ## 💪Skills
 # Platforms & Languages
-Java, 
+Java, SQL, JavaScript
 <!--
 **sseint/sseint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
